@@ -1,5 +1,20 @@
 # angular-spring
 Angular integrado no spring
+
+# Preparando o ambiente
+
+## Instalar nodejs
+./mvnw generate-resources
+
+## Instalar Angular
+./npm install @angular/cli
+
+## Instalar bootstrap (css)
+./npm install bootstrap --save
+
+## Build e ininialização do servido
+./mvnw sprint-boot:run
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
