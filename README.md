@@ -13,7 +13,7 @@ Angular integrado no spring
 ./npm install bootstrap --save
 
 ## Build e ininialização do servido
-./mvnw sprint-boot:run
+./mvnw spring-boot:run
 
 # Client
 
